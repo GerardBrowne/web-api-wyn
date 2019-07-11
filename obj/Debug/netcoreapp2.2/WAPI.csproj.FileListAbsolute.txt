@@ -1,0 +1,14 @@
+C:\Users\gerar\Projects\WAPI\bin\Debug\netcoreapp2.2\WAPI.deps.json
+C:\Users\gerar\Projects\WAPI\bin\Debug\netcoreapp2.2\WAPI.runtimeconfig.json
+C:\Users\gerar\Projects\WAPI\bin\Debug\netcoreapp2.2\WAPI.runtimeconfig.dev.json
+C:\Users\gerar\Projects\WAPI\bin\Debug\netcoreapp2.2\WAPI.dll
+C:\Users\gerar\Projects\WAPI\bin\Debug\netcoreapp2.2\WAPI.pdb
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.csprojAssemblyReference.cache
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.RazorAssemblyInfo.cache
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.RazorAssemblyInfo.cs
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.AssemblyInfoInputs.cache
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.AssemblyInfo.cs
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.dll
+C:\Users\gerar\Projects\WAPI\obj\Debug\netcoreapp2.2\WAPI.pdb
